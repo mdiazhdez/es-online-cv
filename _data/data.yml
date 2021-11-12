@@ -37,6 +37,9 @@ sidebar:
 
     - item: Base de datos (SQL, NoSQL)
       link:
+        -
+    - item: DevOps (CI/CD, Docker, Jenkins)
+      link:
 
 career-profile:
   title: Sobre mi

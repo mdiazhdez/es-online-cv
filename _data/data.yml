@@ -1,0 +1,133 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Mikel Díaz Hernández
+  tagline: Software Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: mdiazhdez87@gmail.com
+  phone: (+598) 94 036 827
+  linkedin: mdiazhdez
+  github: mdiazhdez
+  twitter: '@mdiazhdez'
+
+  languages:
+    - idiom: Español
+      level: Nativo
+
+    - idiom: Inglés
+      level: Básico
+
+    - idiom: Portugués
+      level: Básico
+
+  interests:
+    - item: Tecnología
+      link:
+
+    - item: Desarrollo (Java, Scala)
+      link:
+
+    - item: Frameworks (Spring, Play, Quarkus)
+      link:
+
+    - item: Base de datos (SQL, NoSQL)
+      link:
+
+career-profile:
+  title: Sobre mi
+  summary: |
+    Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware principalmente en backend.
+    Experiencia en el diseño/desarrollo de apis(rest/soap) y en el manejo de base de datos.
+    Abierto siempre a nuevos retos/desafíos y desarrollos (I love coding)
+
+education:
+  - degree: Ingeniero en ciencias informáticas
+    university: Universidad de las Ciencias Informáticas (UCI), Habana-Cuba
+    time: 2006 - 2011
+
+experiences:
+  - role: Desarrollador Java Senior
+    time: Febrero 2017 - Presente
+    company: <a href="https://www.topaz.com.uy/">Topaz</a>,  Montevideo-Uruguay
+    details: |
+      <b>Tareas relevantes:</b>
+        - Implementación y soporte a funcionalidades del core del sistema bancario
+        - Módulo para el sistema de Pagos instantaneos (PIX)
+        - Módulo para el sistema de transferencias electrónicas disponibles (TED)
+        - Interfaz de conexión con DATAPREV
+        - Sistema de actualización de componentes (sistema de actualización del core)
+        - Diseño e implementación de Apis REST/SOAP
+      <br><br>
+      <b>Tecnologías:</b><br>
+      Java, SpringBoot, oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
+
+  - role: Desarrollador Scala
+    time: Marzo 2018 - Diciembre 2019
+    company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a>,  Montevideo-Uruguay
+    details: |
+      <b>Tareas relevantes:</b>
+        - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
+        - Conexión con pasarelas de pago (bancard)
+        - Diseño e Implementación de Apis REST
+      <br><br>
+      <b>Tecnologías:</b><br>
+      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, EST, Docker
+
+  - role: Desarrollador Java
+    time: 2014 - 2016
+    company: Copextel SA, Habana-Cuba
+    details: |
+      <b>Tareas relevantes:</b>
+        - Sistema de gestión para el departamento de Seguridad Informática
+        - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
+        - Módulo de contabilidad del sistema contable “CopextiseSQL”.
+      <br><br>
+      <b>Tecnologías:</b><br>
+      Java, Oracle, PostgreSQL, Git, SpringFramework
+
+  - role: Desarrollador Java
+    time: 2011 - 2014
+    company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Habana-Cuba
+    details: |
+      <b>Tareas relevantes:</b>
+        - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
+        - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
+        - Solución de “Réplica de datos para el departamento de Recursos Humanos de la UCI”
+        - Solución “Solución Tecnológica Integral de Integración de Soluciones
+          Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
+          Bolivariana de Venezuela”.
+      <br><br>
+      <b>Tecnologías:</b><br>
+      Java, PostgreSQL, Git, PL/Psql
+
+skills:
+  title: Habilidades y Competencia
+  toolset:
+    - name: Java EE/SE
+      level: 95%
+
+    - name: Spring Framework
+      level: 80%
+
+    - name: Scala
+      level: 80%
+
+    - name: Play Framework
+      level: 70%
+
+    - name: DB (Oracle, SQLServer, PosgreSQL)
+      level: 70%
+
+    - name: Frontend (Angular, ReactJs)
+      level: 35%
+
+footer: >
+  CV Online | Mikel Díaz Hernández

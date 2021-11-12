@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Mikel Díaz Hernández
-  tagline: Software Developer
+  tagline: Ingeniero en Sistemas
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -19,43 +19,43 @@ sidebar:
   twitter: '@mdiazhdez'
 
   languages:
-    - idiom: Spanish
-      level: Native
+    - idiom: Español
+      level: Nativo
 
-    - idiom: English
-      level: Basic
+    - idiom: Inglés
+      level: Básico
 
-    - idiom: Portuguese
-      level: Basic
+    - idiom: Portugués
+      level: Básico
 
   interests:
-    - item: Technology
+    - item: Tecnología
       link:
 
-    - item: Developer (Java, Scala)
+    - item: Desarrollo (Java, Scala)
       link:
 
     - item: Frameworks (Spring, Play, Quarkus)
       link:
 
-    - item: Database (SQL, NoSQL)
+    - item: Base de datos (SQL, NoSQL)
       link:
 
 career-profile:
-  title: About me
+  title: Sobre mi
   summary: |
     Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware principalmente en backend.
     Experiencia en el diseño/desarrollo de apis(rest/soap) y en el manejo de base de datos.
     Abierto siempre a nuevos retos/desafíos y desarrollos (I love coding)
 
 education:
-  - degree: Engineer's Degree
-    university: University of Informatic Sciences (UCI), Habana-Cuba
+  - degree: Ingeniero en ciencias informáticas
+    university: Universidad de las Ciencias Informáticas (UCI), Habana-Cuba
     time: 2006 - 2011
 
 experiences:
-  - role: Senior Java Developer
-    time: February 2017 - Present
+  - role: Desarrollador Java Senior
+    time: Febrero 2017 - Presente
     company: <a href="https://www.topaz.com.uy/">Topaz</a>,  Montevideo-Uruguay
     details: |
       <b>Tareas relevantes:</b>
@@ -66,11 +66,11 @@ experiences:
         - Sistema de actualización de componentes (sistema de actualización del core)
         - Diseño e implementación de Apis REST/SOAP
       <br><br>
-      <b>Technologies:</b><br>
+      <b>Tecnologías:</b><br>
       Java, SpringBoot, oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
 
-  - role: Scala Developer
-    time: March 2018 - December 2019
+  - role: Desarrollador Scala
+    time: Marzo 2018 - Diciembre 2019
     company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a>,  Montevideo-Uruguay
     details: |
       <b>Tareas relevantes:</b>
@@ -78,10 +78,10 @@ experiences:
         - Conexión con pasarelas de pago (bancard)
         - Diseño e Implementación de Apis REST
       <br><br>
-      <b>Technologies:</b><br>
+      <b>Tecnologías:</b><br>
       Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, EST, Docker
 
-  - role: Java Developer
+  - role: Desarrollador Java
     time: 2014 - 2016
     company: Copextel SA, Habana-Cuba
     details: |
@@ -90,10 +90,10 @@ experiences:
         - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
         - Módulo de contabilidad del sistema contable “CopextiseSQL”.
       <br><br>
-      <b>Technologies:</b><br>
+      <b>Tecnologías:</b><br>
       Java, Oracle, PostgreSQL, Git, SpringFramework
 
-  - role: Java Developer
+  - role: Desarrollador Java
     time: 2011 - 2014
     company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Habana-Cuba
     details: |
@@ -105,23 +105,23 @@ experiences:
           Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
           Bolivariana de Venezuela”.
       <br><br>
-      <b>Technologies:</b><br>
+      <b>Tecnologías:</b><br>
       Java, PostgreSQL, Git, PL/Psql
 
 #skills:
-#  title: Skills &amp; Proficiency
+#  title: Habilidades y Competencia
 #  toolset:
 #    - name: Java EE/SE
 #      level: 95%
 #
-#    - name: Scala
-#      level: 45%
-#
 #    - name: Spring Framework
-#      level: 65%
+#      level: 80%
+#
+#    - name: Scala
+#      level: 80%
 #
 #    - name: Play Framework
-#      level: 45%
+#      level: 70%
 #
 #    - name: DB (Oracle, SQLServer, PosgreSQL)
 #      level: 70%

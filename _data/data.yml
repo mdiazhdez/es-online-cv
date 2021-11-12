@@ -44,7 +44,7 @@ sidebar:
 career-profile:
   title: Sobre mi
   summary: |
-    Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware principalmente en backend.
+    Amante de la tecnología y de la programación. Siempre buscando mejorar mis habilidades de desarrollo de software, actualizando mis conocimientos y al mismo tiempo adquiriendo buenas prácticas de programación.
     Experiencia en el diseño/desarrollo de apis(rest/soap) y en el manejo de base de datos.
     Abierto siempre a nuevos retos/desafíos y desarrollos (I love coding)
 
@@ -67,7 +67,7 @@ experiences:
         - Diseño e implementación de Apis REST/SOAP
       <br><br>
       <b>Tecnologías:</b><br>
-      Java, SpringBoot, oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
+      Java, SpringBoot, Oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
 
   - role: Desarrollador Scala
     time: Marzo 2018 - Diciembre 2019
@@ -79,7 +79,7 @@ experiences:
         - Diseño e Implementación de Apis REST
       <br><br>
       <b>Tecnologías:</b><br>
-      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, EST, Docker
+      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, Apis REST, Docker
 
   - role: Desarrollador Java
     time: 2014 - 2016

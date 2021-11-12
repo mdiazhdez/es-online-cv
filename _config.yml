@@ -3,7 +3,7 @@
 # Site Settings
 title: Mikel Díaz Hernández
 url: 'https://mdiazhdez.github.io/'
-baseurl: '/en-online-cv' #change it according to your repository name
+baseurl: '/es-online-cv' #change it according to your repository name
 description: Resumen CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
